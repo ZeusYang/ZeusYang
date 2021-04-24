@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m currently a second-year master student in Intelligent and Multimedia Science Laboratory at Sun Yat-sen University. And I'll graduate in June this year. After graduation, I'll be a regular employee of Netease Game, working as a Game Engine R&D Engineer. 
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=ZeusYang&show_icons=true&count_private=true&theme=radical)](https://github.com/ZeusYang)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeusYang&layout=compact&theme=radical)](https://github.com/ZeusYang)
+
 <!--
 **ZeusYang/ZeusYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,8 +4,6 @@ I’m currently a second-year master student in Intelligent and Multimedia Scien
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ZeusYang&show_icons=true&count_private=true&theme=radical)](https://github.com/ZeusYang)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeusYang&layout=compact&theme=radical)](https://github.com/ZeusYang)
-
 <!--
 **ZeusYang/ZeusYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

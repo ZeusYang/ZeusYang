@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently a second-year master student in Intelligent and Multimedia Science Laboratory at Sun Yat-sen University. And I'll graduate in June this year. After graduation, I'll be a regular employee of Netease Game, working as a Game Engine R&D Engineer. 
+I graduated from Intelligent and Multimedia Science Laboratory of Sun Yat-sen University. At present, I'm a regular employee of Netease Game, working as a Game Engine R&D Engineer. 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ZeusYang&show_icons=true&count_private=true&theme=radical)](https://github.com/ZeusYang)
 
